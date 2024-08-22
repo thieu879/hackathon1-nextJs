@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Nguyễn Văn A",
+    "dob": "01/01/1999",
+    "email": "nguyenvana@example.com",
+    "image": "https://khoinguonsangtao.vn/wp-content/uploads/2022/07/avatar-cute-2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Trần Thị B",
+    "dob": "15/05/1985",
+    "email": "tranthib@example.com",
+    "image": "https://khoinguonsangtao.vn/wp-content/uploads/2022/07/avatar-cute-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Phạm Văn C",
+    "dob": "09/07/2000",
+    "email": "phamvanc@example.com",
+    "image": "https://khoinguonsangtao.vn/wp-content/uploads/2022/07/avatar-cute-2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Lê Thị D",
+    "dob": "12/04/2004",
+    "email": "lethid@example.com",
+    "image": "https://khoinguonsangtao.vn/wp-content/uploads/2022/07/avatar-cute-2.jpg"
+  }
+]
